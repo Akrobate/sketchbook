@@ -12,7 +12,6 @@ Red:
 Received NEC: FF9867
 
 Green:
-
 Received NEC: FFD827
 
 UpBright:
@@ -26,3 +25,9 @@ Received NEC: FFA857
 
 Flash:
 Received NEC: FFB24D
+
+FadeInFadeOut:
+Recieved NEC: FF00FF
+
+BlueRedGreen Animation:
+FF30CF
